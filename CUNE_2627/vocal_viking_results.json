@@ -1,0 +1,259 @@
+{
+    "ADS": [
+        {
+            "Place": "1",
+            "Name": "Henry Godar",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "2",
+            "Name": "Gabby Monson",
+            "School": "Minnesota State University, Mankato"
+        },
+        {
+            "Place": "3",
+            "Name": "Casey Perlinger-Jett",
+            "School": "Concordia University, Nebraska"
+        }
+    ],
+    "DUO": [
+        {
+            "Place": "1",
+            "Name": "Evelyn Carrette and Petra Heinze",
+            "School": "Dordt University"
+        },
+        {
+            "Place": "2",
+            "Name": "Clara Beutler and Nika San",
+            "School": "Dordt University"
+        },
+        {
+            "Place": "3",
+            "Name": "Hayley McDonald and Henry Godar",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "4",
+            "Name": "Davina Krueger and Julie Carter",
+            "School": "Bethany Lutheran College"
+        }
+    ],
+    "EXTEMP": [
+        {
+            "Place": "1",
+            "Name": "Henry Godar",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "2",
+            "Name": "Eli Frost",
+            "School": "Minnesota State University, Mankato"
+        },
+        {
+            "Place": "3",
+            "Name": "Nadir Mohamed",
+            "School": "University of North Dakota"
+        },
+        {
+            "Place": "4",
+            "Name": "Aidan McKinnon",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "5",
+            "Name": "Dillon Sullivan",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "6",
+            "Name": "Casey Perlinger-Jett",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Callum Lantrip",
+            "School": "Concordia University, Nebraska"
+        }
+    ],
+    "IMP": [
+        {
+            "Place": "1",
+            "Name": "Nadir Mohamed",
+            "School": "University of North Dakota"
+        },
+        {
+            "Place": "2",
+            "Name": "Dillon Sullivan",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "3",
+            "Name": "Elise McKinnon",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "4",
+            "Name": "Mathias Barents",
+            "School": "Bethany Lutheran College"
+        },
+        {
+            "Place": "5",
+            "Name": "Aidan McKinnon",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "6",
+            "Name": "Eli Frost",
+            "School": "Minnesota State University, Mankato"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Ryle Alvarez",
+            "School": "Concordia University, Nebraska"
+        }
+    ],
+    "INFO": [
+        {
+            "Place": "1",
+            "Name": "Dillon Sullivan",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "2",
+            "Name": "Jacy Jackson",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "3",
+            "Name": "Izzy Carter",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "4",
+            "Name": "Gracie Boschert",
+            "School": "University of North Dakota"
+        }
+    ],
+    "JV_PARLI": [
+        {
+            "Place": "1",
+            "Name": "Elise McKinnon and Ryle Alvarez",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "2",
+            "Name": "Henry Godar and Samuel Raymond",
+            "School": "Simpson College"
+        }
+    ],
+    "OPEN_PARLI": [
+        {
+            "Place": "1",
+            "Name": "Caleb Hartwig and Mathias Barents",
+            "School": "Bethany Lutheran College"
+        },
+        {
+            "Place": "2",
+            "Name": "Bennett Kautz and Petra Heinze",
+            "School": "Dordt University"
+        }
+    ],
+    "PERS": [
+        {
+            "Place": "1",
+            "Name": "Selena Constanza-Chavez",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "2",
+            "Name": "Dillon Sullivan",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "3",
+            "Name": "Alex Beveridge",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "4",
+            "Name": "Aurore Lonyome",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "5",
+            "Name": "Isaac Arellano",
+            "School": "St. Cloud State University"
+        },
+        {
+            "Place": "6",
+            "Name": "Jack Kom",
+            "School": "Bethany Lutheran College"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Samuel Schroeder",
+            "School": "Bethany Lutheran College"
+        }
+    ],
+    "POE": [
+        {
+            "Place": "1",
+            "Name": "Kaye Lentz",
+            "School": "Minnesota State University, Mankato"
+        },
+        {
+            "Place": "2",
+            "Name": "Sandra Cordes",
+            "School": "Bethany Lutheran College"
+        },
+        {
+            "Place": "3",
+            "Name": "Julie Carter",
+            "School": "Bethany Lutheran College"
+        }
+    ],
+    "POI": [
+        {
+            "Place": "1",
+            "Name": "Morgan Guyer",
+            "School": "Minnesota State University, Mankato"
+        },
+        {
+            "Place": "2",
+            "Name": "Sarah Groth",
+            "School": "Bethany Lutheran College"
+        },
+        {
+            "Place": "3",
+            "Name": "Samuel Raymond",
+            "School": "Simpson College"
+        }
+    ],
+    "PROSE": [
+        {
+            "Place": "1",
+            "Name": "Henry Godar",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "2",
+            "Name": "Ali Gonzalez",
+            "School": "Minnesota State University, Mankato"
+        },
+        {
+            "Place": "3",
+            "Name": "Hayley McDonald",
+            "School": "Simpson College"
+        },
+        {
+            "Place": "4",
+            "Name": "Adalynn Hoel",
+            "School": "Minnesota State University, Mankato"
+        },
+        {
+            "Place": "5",
+            "Name": "Julie Carter",
+            "School": "Bethany Lutheran College"
+        }
+    ]
+}

@@ -1,0 +1,339 @@
+{
+    "ADS": [
+        {
+            "Place": "1",
+            "Name": "Oliver Nauman",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "2",
+            "Name": "Kyla Holt",
+            "School": "West Texas A&M"
+        },
+        {
+            "Place": "3",
+            "Name": "Brianna Wright",
+            "School": "Doane University"
+        },
+        {
+            "Place": "4",
+            "Name": "Ruby Bostock",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "5",
+            "Name": "Oliver Sheaff",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "6",
+            "Name": "Jace Fernandez",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Samm Goenner",
+            "School": "Concordia - Moorhead"
+        }
+    ],
+    "CA": [
+        {
+            "Place": "1",
+            "Name": "Hailey Gifford",
+            "School": "Hastings College"
+        },
+        {
+            "Place": "2",
+            "Name": "August Vinson",
+            "School": "West Texas A&M"
+        },
+        {
+            "Place": "3",
+            "Name": "Olyvia Weber",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "4",
+            "Name": "Kaelyn Nelson",
+            "School": "Concordia - Moorhead"
+        },
+        {
+            "Place": "5",
+            "Name": "Kyla Holt",
+            "School": "West Texas A&M"
+        },
+        {
+            "Place": "6",
+            "Name": "Brianna Bender",
+            "School": "Kansas State IE"
+        }
+    ],
+    "DI": [
+        {
+            "Place": "1",
+            "Name": "Tiffany Ruvalcaba Lupercio",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "2",
+            "Name": "August Vinson",
+            "School": "West Texas A&M"
+        },
+        {
+            "Place": "3",
+            "Name": "Lillian Korbel",
+            "School": "Doane University"
+        },
+        {
+            "Place": "4",
+            "Name": "Logan Gachara",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "5",
+            "Name": "Winifred Huber",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "6",
+            "Name": "Liv Wojahn",
+            "School": "Concordia - Moorhead"
+        }
+    ],
+    "DUO": [
+        {
+            "Place": "1",
+            "Name": "Paul Swartz and Tiffany Ruvalcaba Lupercio",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "2",
+            "Name": "Britani Casanova and Tiffany Ruvalcaba Lupercio",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "3",
+            "Name": "Brenda Tanghanwaye and Winifred Huber",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "4",
+            "Name": "Lilly Leathers and Nathan Stoetzel",
+            "School": "University of Nebraska - Kearney"
+        }
+    ],
+    "EXTEMP": [
+        {
+            "Place": "1",
+            "Name": "Paul Swartz",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "2",
+            "Name": "Hailey Gifford",
+            "School": "Hastings College"
+        },
+        {
+            "Place": "3",
+            "Name": "John Lee",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "4",
+            "Name": "Jonah Krogstad",
+            "School": "Concordia - Moorhead"
+        },
+        {
+            "Place": "5",
+            "Name": "Carter Hass",
+            "School": "Concordia - Moorhead"
+        },
+        {
+            "Place": "6",
+            "Name": "June Hitzemann",
+            "School": "South Dakota State University"
+        }
+    ],
+    "IMP": [
+        {
+            "Place": "1",
+            "Name": "Andrew Graham",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "2",
+            "Name": "Kyla Holt",
+            "School": "West Texas A&M"
+        },
+        {
+            "Place": "3",
+            "Name": "Paul Swartz",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "4",
+            "Name": "Oliver Nauman",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "5",
+            "Name": "John Lee",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "6",
+            "Name": "Hailey Gifford",
+            "School": "Hastings College"
+        }
+    ],
+    "INFO": [
+        {
+            "Place": "1",
+            "Name": "Olyvia Weber",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Abby Klatt",
+            "School": "Hastings College"
+        },
+        {
+            "Place": "3",
+            "Name": "Samm Goenner",
+            "School": "Concordia - Moorhead"
+        }
+    ],
+    "PERS": [
+        {
+            "Place": "1",
+            "Name": "Paul Swartz",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "2",
+            "Name": "Skylar Slater",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "3",
+            "Name": "Ava Martinez",
+            "School": "Doane University"
+        },
+        {
+            "Place": "4",
+            "Name": "Oliver Nauman",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "5",
+            "Name": "Ellie Lollar",
+            "School": "West Texas A&M"
+        },
+        {
+            "Place": "6",
+            "Name": "Valerie Schultz",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Abby Klatt",
+            "School": "Hastings College"
+        }
+    ],
+    "Poetry": [
+        {
+            "Place": "1",
+            "Name": "John Lee",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "2",
+            "Name": "Paul Swartz",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "3",
+            "Name": "Hailey Gifford",
+            "School": "Hastings College"
+        },
+        {
+            "Place": "4",
+            "Name": "Madison Alexander",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "5",
+            "Name": "Regan Widholm",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "6",
+            "Name": "Jay Woitalewicz",
+            "School": "University of Nebraska - Kearney"
+        }
+    ],
+    "Program Oral Interp": [
+        {
+            "Place": "1",
+            "Name": "Andrew Graham",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "2",
+            "Name": "August Vinson",
+            "School": "West Texas A&M"
+        },
+        {
+            "Place": "3",
+            "Name": "Britani Casanova",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "4",
+            "Name": "John Lee",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "5",
+            "Name": "Jonah Krogstad",
+            "School": "Concordia - Moorhead"
+        },
+        {
+            "Place": "6",
+            "Name": "Romeo Rice",
+            "School": "Bradley University"
+        }
+    ],
+    "Prose": [
+        {
+            "Place": "1",
+            "Name": "Andrew Graham",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "2",
+            "Name": "Oliver Sheaff",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "3",
+            "Name": "Gabriella Dodway",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "4",
+            "Name": "Winifred Huber",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "5",
+            "Name": "Jace Fernandez",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "6",
+            "Name": "Skylar Slater",
+            "School": "South Dakota State University"
+        }
+    ]
+}

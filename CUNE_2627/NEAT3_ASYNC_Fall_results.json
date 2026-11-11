@@ -1,0 +1,344 @@
+{
+    "ADS": [
+        {
+            "Place": "1",
+            "Name": "Thomas Roth",
+            "School": "George Mason University"
+        },
+        {
+            "Place": "2",
+            "Name": "J'Lynn Henry",
+            "School": "Wiley University"
+        },
+        {
+            "Place": "3",
+            "Name": "Kayla Bruhn",
+            "School": "Illinois State University"
+        },
+        {
+            "Place": "4",
+            "Name": "Kenzie Hart",
+            "School": "Illinois State University"
+        },
+        {
+            "Place": "5",
+            "Name": "Kylie Clarke",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "6",
+            "Name": "Ian Brooks",
+            "School": "University of Indianapolis"
+        }
+    ],
+    "CA": [
+        {
+            "Place": "1",
+            "Name": "Mckenzie Ormond",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "2",
+            "Name": "Jaina Johnson",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "3",
+            "Name": "Dhara Patel",
+            "School": "University of Florida"
+        },
+        {
+            "Place": "4",
+            "Name": "Ian Brooks",
+            "School": "University of Indianapolis"
+        }
+    ],
+    "DI": [
+        {
+            "Place": "1",
+            "Name": "Winifred Huber",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "2",
+            "Name": "Ruby Anderson",
+            "School": "Liberty University"
+        },
+        {
+            "Place": "3",
+            "Name": "Ian Brooks",
+            "School": "University of Indianapolis"
+        },
+        {
+            "Place": "4",
+            "Name": "Nassir Browder",
+            "School": "Wiley University"
+        },
+        {
+            "Place": "5",
+            "Name": "Wiljina Jolteus",
+            "School": "University of Central Florida"
+        },
+        {
+            "Place": "6",
+            "Name": "Skyler Hogan",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Chitzi Justin",
+            "School": "Alabama A&M University"
+        }
+    ],
+    "DUO": [
+        {
+            "Place": "1",
+            "Name": "Ann Hunter Bigham and Max Krzeminski",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "2",
+            "Name": "Messiah Lee and Nevaeh Walker",
+            "School": "Tennessee State University"
+        },
+        {
+            "Place": "3",
+            "Name": "Alice Dabbs and Ann Hunter Bigham",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "4",
+            "Name": "Joshua Khan and Mason Stevens",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "5",
+            "Name": "Evelyn Cummings and Maelin Rennemeyer",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "6",
+            "Name": "Emmalee Empey and Oisin Riedlinger",
+            "School": "University of Wisconsin-Whitewater"
+        }
+    ],
+    "EXTEMP": [
+        {
+            "Place": "1",
+            "Name": "Olivia Declercq",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "2",
+            "Name": "Ian Candy",
+            "School": "George Mason University"
+        },
+        {
+            "Place": "3",
+            "Name": "Emmalee Empey",
+            "School": "University of Wisconsin-Whitewater"
+        },
+        {
+            "Place": "4",
+            "Name": "Bailey Mathews",
+            "School": "University of Florida"
+        },
+        {
+            "Place": "5",
+            "Name": "Shalin Mehta",
+            "School": "University of Illinois Chicago"
+        },
+        {
+            "Place": "6",
+            "Name": "Chance Williams",
+            "School": "Alabama A&M University"
+        }
+    ],
+    "IMP": [
+        {
+            "Place": "1",
+            "Name": "Charmi Gopu",
+            "School": "University of Central Florida"
+        },
+        {
+            "Place": "2",
+            "Name": "Em Luethy",
+            "School": "Illinois State University"
+        },
+        {
+            "Place": "3",
+            "Name": "Shalin Mehta",
+            "School": "University of Illinois Chicago"
+        },
+        {
+            "Place": "4",
+            "Name": "Cassidy Gunter",
+            "School": "George Mason University"
+        },
+        {
+            "Place": "5",
+            "Name": "Preston Vicenzi",
+            "School": "Bethel College"
+        },
+        {
+            "Place": "6",
+            "Name": "Sydney (Camille) Beane",
+            "School": "Fisk University Word on the Yard"
+        }
+    ],
+    "INFO": [
+        {
+            "Place": "1",
+            "Name": "Emkay Manfull",
+            "School": "University of Central Florida"
+        },
+        {
+            "Place": "2",
+            "Name": "Breeze Lawless",
+            "School": "George Mason University"
+        },
+        {
+            "Place": "3",
+            "Name": "Thomas Hebert",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "4",
+            "Name": "Kelsey Mosely",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "5",
+            "Name": "Charmi Gopu",
+            "School": "University of Central Florida"
+        },
+        {
+            "Place": "6",
+            "Name": "Charlee Thompson",
+            "School": "University of Central Florida"
+        }
+    ],
+    "PERS": [
+        {
+            "Place": "1",
+            "Name": "Bailey Mathews",
+            "School": "University of Florida"
+        },
+        {
+            "Place": "2",
+            "Name": "Mckenzie Ormond",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "3",
+            "Name": "Brooklyn Woods",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "4",
+            "Name": "Alice Dabbs",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "5",
+            "Name": "Olivia Declercq",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "6",
+            "Name": "Nghi Chau",
+            "School": "University of Central Florida"
+        }
+    ],
+    "POE": [
+        {
+            "Place": "1",
+            "Name": "Nicole Gonzalez",
+            "School": "Illinois State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Brooklyn Woods",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "3",
+            "Name": "J'Lynn Henry",
+            "School": "Wiley University"
+        },
+        {
+            "Place": "4",
+            "Name": "Eddy Alcaide",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "5",
+            "Name": "Robert Locke",
+            "School": "Wiley University"
+        }
+    ],
+    "POI": [
+        {
+            "Place": "1",
+            "Name": "Samuel Dalachinsky",
+            "School": "George Mason University"
+        },
+        {
+            "Place": "2",
+            "Name": "Nicole Gonzalez",
+            "School": "Illinois State University"
+        },
+        {
+            "Place": "3",
+            "Name": "Maelin Rennemeyer",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "4",
+            "Name": "Natalie Hall",
+            "School": "Bradley University"
+        },
+        {
+            "Place": "5",
+            "Name": "Isabella Ausk",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "6",
+            "Name": "Emkay Manfull",
+            "School": "University of Central Florida"
+        }
+    ],
+    "PROSE": [
+        {
+            "Place": "1",
+            "Name": "Alice Dabbs",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "2",
+            "Name": "Winifred Huber",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "3",
+            "Name": "David Rodriguez",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "4",
+            "Name": "Christian Jack",
+            "School": "Tennessee State University"
+        },
+        {
+            "Place": "5",
+            "Name": "Kaden Stone",
+            "School": "University of Alabama"
+        },
+        {
+            "Place": "6",
+            "Name": "Kirra Watkins",
+            "School": "University of Florida"
+        }
+    ]
+}

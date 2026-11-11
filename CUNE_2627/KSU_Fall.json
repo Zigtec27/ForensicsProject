@@ -1,0 +1,314 @@
+{
+    "ADS": [
+        {
+            "Place": "1",
+            "Name": "Andrew Hedin",
+            "School": "Northwest Missouri State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Mariah McDole",
+            "School": "Wayne State College"
+        },
+        {
+            "Place": "3",
+            "Name": "Casey Perlinger-Jett",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "4",
+            "Name": "Brianna Wright",
+            "School": "Doane University"
+        },
+        {
+            "Place": "5",
+            "Name": "Ruby Bostock",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "6",
+            "Name": "Jordynn Jerby",
+            "School": "Doane University"
+        }
+    ],
+    "CA": [
+        {
+            "Place": "1",
+            "Name": "Jaina Johnson",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "2",
+            "Name": "Anastasia Dixon-Stwyer",
+            "School": "Ottawa University"
+        },
+        {
+            "Place": "3",
+            "Name": "Brianna Bender",
+            "School": "Kansas State IE"
+        }
+    ],
+    "DI": [
+        {
+            "Place": "1",
+            "Name": "Andrew Hedin",
+            "School": "Northwest Missouri State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Ethan Tibor",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "3",
+            "Name": "Sara Micanek",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "4",
+            "Name": "Logan Gachara",
+            "School": "University of Nebraska Omaha"
+        }
+    ],
+    "DUO": [
+        {
+            "Place": "1",
+            "Name": "Carter Hamblin and Tamyia Bender",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "2",
+            "Name": "Colin Gibbons and Sara Micanek",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "3",
+            "Name": "Anthony Eppolito and Victor Scott",
+            "School": "Northwest Missouri State University"
+        }
+    ],
+    "EXTEMP": [
+        {
+            "Place": "1",
+            "Name": "Franny Chaffee-McClure",
+            "School": "Kansas State IE"
+        },
+        {
+            "Place": "2",
+            "Name": "Parker Kesting",
+            "School": "Wayne State College"
+        },
+        {
+            "Place": "3",
+            "Name": "Fern Schrotberger",
+            "School": "Kansas State IE"
+        },
+        {
+            "Place": "4",
+            "Name": "Julia Haller",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "5",
+            "Name": "Hailey Gifford",
+            "School": "Hastings College"
+        },
+        {
+            "Place": "6",
+            "Name": "Maliya Keeshan",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Anastasia Dixon-Stwyer",
+            "School": "Ottawa University"
+        }
+    ],
+    "IMP": [
+        {
+            "Place": "1",
+            "Name": "Casey Perlinger-Jett",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "2",
+            "Name": "Hailey Gifford",
+            "School": "Hastings College"
+        },
+        {
+            "Place": "3",
+            "Name": "Jaina Johnson",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "4",
+            "Name": "Brianna Wright",
+            "School": "Doane University"
+        },
+        {
+            "Place": "5",
+            "Name": "Riley Kretzer",
+            "School": "Northwest Missouri State University"
+        }
+    ],
+    "INFO": [
+        {
+            "Place": "1",
+            "Name": "Abby Klatt",
+            "School": "Hastings College"
+        },
+        {
+            "Place": "2",
+            "Name": "Keely Petrus",
+            "School": "Garden City Community College"
+        },
+        {
+            "Place": "3",
+            "Name": "Parker Kesting",
+            "School": "Wayne State College"
+        },
+        {
+            "Place": "4",
+            "Name": "Anthony Eppolito",
+            "School": "Northwest Missouri State University"
+        },
+        {
+            "Place": "5",
+            "Name": "Riley Kretzer",
+            "School": "Northwest Missouri State University"
+        },
+        {
+            "Place": "6",
+            "Name": "Andrew Hedin",
+            "School": "Northwest Missouri State University"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Veronica McCallum",
+            "School": "Garden City Community College"
+        }
+    ],
+    "PERS": [
+        {
+            "Place": "1",
+            "Name": "Everett Hamer",
+            "School": "Kansas State IE"
+        },
+        {
+            "Place": "2",
+            "Name": "Julia Haller",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "3",
+            "Name": "Ava Martinez",
+            "School": "Doane University"
+        },
+        {
+            "Place": "4",
+            "Name": "Fern Schrotberger",
+            "School": "Kansas State IE"
+        },
+        {
+            "Place": "5",
+            "Name": "Abby Klatt",
+            "School": "Hastings College"
+        },
+        {
+            "Place": "6",
+            "Name": "Maliya Keeshan",
+            "School": "University of Nebraska-Lincoln"
+        }
+    ],
+    "POE": [
+        {
+            "Place": "1",
+            "Name": "Tamyia Bender",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "2",
+            "Name": "Shiloh Smith",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "3",
+            "Name": "Katryst Chari",
+            "School": "Wayne State College"
+        },
+        {
+            "Place": "4",
+            "Name": "Isabella Ausk",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "5",
+            "Name": "Harmony Banwo",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "6",
+            "Name": "Carter Hamblin",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Hailey Gifford",
+            "School": "Hastings College"
+        }
+    ],
+    "POI": [
+        {
+            "Place": "1",
+            "Name": "Andrew Hedin",
+            "School": "Northwest Missouri State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Isabella Ausk",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "3",
+            "Name": "Lily Blank",
+            "School": "Doane University"
+        },
+        {
+            "Place": "4",
+            "Name": "Abby Klatt",
+            "School": "Hastings College"
+        }
+    ],
+    "PROSE": [
+        {
+            "Place": "1",
+            "Name": "Nya Curtis",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "2",
+            "Name": "David Rodriguez",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "3",
+            "Name": "Avaya Carlson",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "4",
+            "Name": "Jaina Johnson",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "5",
+            "Name": "Winifred Huber",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "6",
+            "Name": "Mak Ruffing",
+            "School": "University of Nebraska Omaha"
+        }
+    ]
+}

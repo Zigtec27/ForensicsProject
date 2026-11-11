@@ -1,0 +1,344 @@
+{
+    "ADS": [
+        {
+            "Place": "1",
+            "Name": "Rylee Cawley",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Sawyer Partney",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "3",
+            "Name": "Allison Carlin",
+            "School": "Concordia - Moorhead"
+        },
+        {
+            "Place": "4",
+            "Name": "Americ Bergstrom",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "5",
+            "Name": "Sky Johnson",
+            "School": "Concordia - Moorhead"
+        },
+        {
+            "Place": "6",
+            "Name": "Casey Perlinger-Jett",
+            "School": "Concordia University, Nebraska"
+        }
+    ],
+    "CA": [
+        {
+            "Place": "1",
+            "Name": "Annie Nguyen",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Carter Gehrke",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "3",
+            "Name": "Nick Williams",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "4",
+            "Name": "Willow Adamson",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "5",
+            "Name": "Cooper Spacil",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "6",
+            "Name": "Taya Baric",
+            "School": "University of North Dakota"
+        }
+    ],
+    "DI": [
+        {
+            "Place": "1",
+            "Name": "Andrew Hedin",
+            "School": "Northwest Missouri State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Ryle Alvarez",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "3",
+            "Name": "Beau Cassell",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "4",
+            "Name": "Lottie Wells",
+            "School": "University of Wisconsin-Eau Claire"
+        },
+        {
+            "Place": "5",
+            "Name": "Liv Wojahn",
+            "School": "Concordia - Moorhead"
+        },
+        {
+            "Place": "6",
+            "Name": "Taylee Parmenter",
+            "School": "Northwest Missouri State University"
+        }
+    ],
+    "DUO": [
+        {
+            "Place": "1",
+            "Name": "Adem Ballew and Jace Fernandez",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Erika Littlefield and Josh Storsved",
+            "School": "University of North Dakota"
+        }
+    ],
+    "EXTEMP": [
+        {
+            "Place": "1",
+            "Name": "Aidan McKinnon",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "2",
+            "Name": "Sawyer Partney",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "3",
+            "Name": "Cooper Spacil",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "4",
+            "Name": "Elise McKinnon",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "5",
+            "Name": "Jack Unsell",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "6",
+            "Name": "Cass Skogen",
+            "School": "Concordia - Moorhead"
+        }
+    ],
+    "IMP": [
+        {
+            "Place": "1",
+            "Name": "Jack Unsell",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Jonah Krogstad",
+            "School": "Concordia - Moorhead"
+        },
+        {
+            "Place": "3",
+            "Name": "Jonah Benton",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "4",
+            "Name": "Jacy Jackson",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "5",
+            "Name": "Lauren Weiss",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "6",
+            "Name": "Guillermo Cruz Arroyo",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Ray Leath",
+            "School": "Northwest Missouri State University"
+        }
+    ],
+    "INFO": [
+        {
+            "Place": "1",
+            "Name": "Annie Nguyen",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Colin Gibbons",
+            "School": "University of Nebraska Omaha"
+        },
+        {
+            "Place": "3",
+            "Name": "Dani Schulz",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "4",
+            "Name": "Jonah Krogstad",
+            "School": "Concordia - Moorhead"
+        },
+        {
+            "Place": "5",
+            "Name": "Olyvia Weber",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "6",
+            "Name": "Anna Erickson",
+            "School": "Valley City State University"
+        }
+    ],
+    "PERS": [
+        {
+            "Place": "1",
+            "Name": "Lottie Wells",
+            "School": "University of Wisconsin-Eau Claire"
+        },
+        {
+            "Place": "2",
+            "Name": "Skylar Slater",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "3",
+            "Name": "Daisy Calloway",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "4",
+            "Name": "Lauren Weiss",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "5",
+            "Name": "River Repinski",
+            "School": "Winona State University"
+        }
+    ],
+    "POE": [
+        {
+            "Place": "1",
+            "Name": "David Rodriguez",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "2",
+            "Name": "Marissa Crosby",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "3",
+            "Name": "Emily Bonilla",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "4",
+            "Name": "Eddy Alcaide",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "5",
+            "Name": "Say Pah",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "6",
+            "Name": "Regan Widholm",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "6",
+            "Name": "Madison Alexander",
+            "School": "South Dakota State University"
+        }
+    ],
+    "Program Oral Interp": [
+        {
+            "Place": "1",
+            "Name": "Marissa Crosby",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "2",
+            "Name": "Keagen Kratcha",
+            "School": "University of North Dakota"
+        },
+        {
+            "Place": "3",
+            "Name": "Andrew Hedin",
+            "School": "Northwest Missouri State University"
+        },
+        {
+            "Place": "4",
+            "Name": "Jonah Penna",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "5",
+            "Name": "Alexandria Confer",
+            "School": "South Dakota State University"
+        }
+    ],
+    "Prose": [
+        {
+            "Place": "1",
+            "Name": "Gavin Eischens",
+            "School": "South Dakota State University"
+        },
+        {
+            "Place": "2",
+            "Name": "Dani Schulz",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "3",
+            "Name": "Marissa Crosby",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "4",
+            "Name": "Avaya Carlson",
+            "School": "University of Nebraska-Lincoln"
+        },
+        {
+            "Place": "5",
+            "Name": "David Rodriguez",
+            "School": "Concordia University, Nebraska"
+        },
+        {
+            "Place": "6",
+            "Name": "Willow Adamson",
+            "School": "Truman State University"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Everix Machan",
+            "School": "University of Wisconsin-Eau Claire"
+        },
+        {
+            "Place": "Fin.",
+            "Name": "Eddy Alcaide",
+            "School": "University of Nebraska-Lincoln"
+        }
+    ]
+}
