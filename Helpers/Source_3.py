@@ -1,3 +1,7 @@
+# Election data cleaner
+# This is another file I made awhile ago, it converts raw election data from a .csv file into a cleaned lua table file.
+# It's one of the main sources I pulled from when building the .txt -> .json converter for this project.
+
 import csv
 
 candidate_name = None
