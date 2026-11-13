@@ -1,5 +1,7 @@
 # https://www.geeksforgeeks.org/python/convert-text-file-to-json-in-python/
 # https://www.geeksforgeeks.org/python/enumerate-in-python/
+# A file I did NOT make, it was one of the primary examples within a string of articles I looked through to gain better insight on .txt -> .json conversion in python.
+# It's one of the main sources I pulled from when building the .txt -> .json converter for this project.
 
 # Python program to convert text
 # file to JSON
