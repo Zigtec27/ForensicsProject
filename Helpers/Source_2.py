@@ -1,3 +1,7 @@
+# Basketball stats converter
+# A file I made awhile ago too, it converts raw basketball data from a .csv file into a cleaned lua table file.
+# It's one of the main sources I pulled from when building the .txt -> .json converter for this project.
+
 import pandas as pd
 from io import StringIO
 
