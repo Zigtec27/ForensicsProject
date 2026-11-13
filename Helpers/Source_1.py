@@ -1,3 +1,7 @@
+# College Football Scorigami Data Cleaner
+# This is a file I made awhile ago to sort unclear data from a .csv into a .json
+# It's one of the main sources I pulled from when building the .txt -> .json converter for this project.
+
 import csv
 import json
 import os
